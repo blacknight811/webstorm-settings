@@ -1,0 +1,11 @@
+<templateSet group="AngularJS ">
+  <template name="@comp" value="import {Component} from 'angular2/core';&#10;&#10;@Component({&#10;  selector: 'my-component',&#10;  templateUrl: '',&#10;  styleUrls: []&#10;})&#10;&#10;export class MyComponent {&#10;  constructor() {}&#10;}" description="Create a component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
