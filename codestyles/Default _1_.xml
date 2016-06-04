@@ -2,9 +2,9 @@
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </JSCodeStyleSettings>
-  <MultiMarkdownCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
+  </MarkdownNavigatorCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="SPACE_AFTER_TYPE_COLON" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
