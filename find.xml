@@ -17,7 +17,6 @@
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
-      <mask>*.html</mask>
       <mask>*.html,</mask>
       <mask>*.html,</mask>
       <mask>*.html, !</mask>
@@ -39,6 +38,7 @@
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.html</mask>
       <mask>*.html</mask>
     </recentFileMasks>
   </component>
