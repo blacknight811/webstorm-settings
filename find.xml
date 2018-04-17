@@ -5,37 +5,15 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.spec.ts</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.html,</mask>
-      <mask>*.html,</mask>
-      <mask>*.html, !</mask>
-      <mask>*.html, !*</mask>
-      <mask>*.html, !*.</mask>
-      <mask>*.html, !*.h</mask>
-      <mask>*.html, !*.ht</mask>
-      <mask>*.html, !*.htm</mask>
-      <mask>*.html, !*.html</mask>
-      <mask>*.html, !*.html.</mask>
-      <mask>*.html, !*.html.t</mask>
-      <mask>*.html, !*.html.ts</mask>
-      <mask>*.html, !*.htmlts</mask>
-      <mask>*.html, !*.htmts</mask>
-      <mask>*.html, !*.htts</mask>
-      <mask>*.html, !*.hts</mask>
-      <mask>*.html, !*.ts</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.html</mask>
-      <mask>*.html</mask>
-      <mask>!**/node_modules/**.js</mask>
-      <mask>!*.js.html</mask>
-      <mask>!*.spec.ts, !*.html, !*node_modules/**</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>!*.json</mask>
   </component>
 </application>
