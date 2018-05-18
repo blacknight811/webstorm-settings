@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.spec.js, !*.js.html" />
+    <option name="FILE_MASK" value="!*.spec.js, !*.js.html, !*.ts.html" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,5 +17,6 @@
     <mask>*.mxml</mask>
     <mask>!*.json</mask>
     <mask>!*.spec.js, !*.js.html</mask>
+    <mask>!*.spec.js, !*.js.html, !*.ts.html</mask>
   </component>
 </application>
