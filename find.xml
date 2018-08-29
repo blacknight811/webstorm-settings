@@ -11,6 +11,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.spec.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,11 +23,11 @@
     <mask>!*.json</mask>
     <mask>!*.spec.js, !*.js.html</mask>
     <mask>!*.spec.js, !*.js.html, !*.ts.html</mask>
-    <mask>*.spec.js</mask>
     <mask>!*.scss</mask>
     <mask>*.spec.ts</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>!*.spec.js, !*.js.html, !*.ts.html, !*.spec.ts</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>
